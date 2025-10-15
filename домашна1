@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="mk">
+<head>
+  <title>КВИЗ: Есенски Животни</title>
+</head>
+<body>
+
+  <h1 id="top">КВИЗ: Есенски Животни</h1>
+
+  <p>Колку многу знаеш за што се случува околу тебе за време на есен?</p>
+
+  <p>Квизот содржи 5 прашања со по 4 понудени одговори, од кои само еден е точен. Избери внимателно!</p>
+
+  <img src="https://uploads.onecompiler.io/43zr7h8ed/43zr4yz27/autumn.jpg" alt="слика" style="width:500px;height:500px;" >
+  
+
+  <form>
+     <p>1. Кое од овие животни не е есенско животно? </p>
+    <input type = "radio" name = "1" > Еж </label><br>
+    <input type = "radio" name = "2" > Црвена лисица </label><br>
+    <input type = "radio" name = "3" > Мајмун </label><br>
+    <input type = "radio" name = "4" > Сив волк </label><br><br>
+    
+    <p>2. Што прави ракунот за време на есен? </p>
+    <input type = "radio" name = "1" > Се подготвува за зима </label><br>
+    <input type = "radio" name = "2" > Се полни со храна </label><br>
+    <input type = "radio" name = "3" > Кожата им станува подебела </label><br>
+    <input type = "radio" name = "4" > Се од наведеното </label><br><br>
+
+    <p>3. Кои птици не вршат миграција во есен? </p>
+    <input type = "radio" name = "1" > Лебед </label><br>
+    <input type = "radio" name = "2" > Був </label><br>
+    <input type = "radio" name = "3" > Северозападна врана </label><br>
+    <input type = "radio" name = "4" > Кукавици </label><br><br>
+    
+    <p>4. Кои инсекти вршат миграција? </p>
+    <input type = "radio" name = "1" > Бубамари </label><br>
+    <input type = "radio" name = "2" > Монарх пеперутки </label><br>
+    <input type = "radio" name = "3" > Вилински коњчиња </label><br>
+    <input type = "radio" name = "4" > Скакулци </label><br><br>
+    
+    <p>5. Кои се начните на кои животните се подготвуваат за зима во есен? </p>
+    <input type = "radio" name = "1" > Миграција </label><br>
+    <input type = "radio" name = "2" > Адаптација на тело </label><br>
+    <input type = "radio" name = "3" > Колектирање на храна </label><br>
+    <input type = "radio" name = "4" > Се од наведеното </label><br><br>
+
+    <input type="submit" value="Испрати">
+  </form>
+
+  <p><a href="#top">Назад на почеток</a></p>
+
+</body>
+</html>
