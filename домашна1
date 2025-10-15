@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html lang="mk">
 <head>
   <title>КВИЗ: Есенски Животни</title>
 </head>
@@ -15,7 +14,7 @@
   
 
   <form>
-     <p>1. Кое од овие животни не е есенско животно? </p>
+    <p>1. Кое од овие животни не е есенско животно? </p>
     <input type = "radio" name = "1" > Еж </label><br>
     <input type = "radio" name = "2" > Црвена лисица </label><br>
     <input type = "radio" name = "3" > Мајмун </label><br>
