@@ -1,0 +1,14 @@
+p {
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+.motordzija {
+    text-align: center;
+    margin: 10%;
+}
+
+body {
+    background-color: black;
+}
